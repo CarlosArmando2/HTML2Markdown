@@ -1,3 +1,12 @@
+Aclaracion sobre el historial de commits
+
+El proyecto se desarrollo primero y posteriormente se realizaron los commits en GitHub. Esto se debio a que al momento de revisar las indicaciones de la practica no tome en cuenta correctamente el apartado que solicitaba mostrar el desarrollo incremental mediante el historial de commits.
+
+Por ese motivo el repositorio no contiene commits que representen cada etapa desde el inicio del desarrollo los commits se comenzaron a realizar despues de terminar el proyecto para registrar su version y los cambios posteriores.
+
+Reconosco esta omision y dejamos esta aclaracion para explicar por que el historial de commits no muestra todo el proceso de desarrollo.
+
+
 # HTML2Markdown
 
 Aplicacion desarrollada en Java que permite descargar documentos HTML desde una URL HTTP o HTTPS, analizar su estructura y convertir su contenido a formato Markdown (`.md`).
